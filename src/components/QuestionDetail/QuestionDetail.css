@@ -1,0 +1,31 @@
+.questiondetail-container {
+  max-width: 1100px;
+  margin: 15px 200px;
+  padding: 5px;
+  display: flex;
+  justify-content: flex-start;
+  background-color: #fdf8e1; 
+}
+
+.questiondetail-container:hover {
+  cursor: pointer;
+  border-radius: 5px;
+  box-shadow: 10px 10px #ffcd61 ;
+}
+
+.questiondetail-select {
+  margin-left: 20px;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+@media (max-width: 768px) {
+
+  .questiondetail-container, h2{
+    margin-left: 90px;
+    width: 500px;
+    heigth: 450px;
+  }
+}
+
+

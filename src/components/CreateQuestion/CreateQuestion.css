@@ -1,0 +1,37 @@
+.create-content {
+  margin-left: 190px;
+  width: 1100px;
+  heigth: 550px;
+  padding: 12px;
+  background-color: #fdf8e1;
+  border-radius: 5px; 
+  box-shadow: 10px 10px #ffcd61;
+}
+
+.btn-new {
+  margin: 50px;
+  width: 180px;
+  height: 60px;
+  color: black;
+  background-color: #fdf8e1;
+  border: 1px solid;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.btn-new:hover {
+  cursor: cell;
+  background-color: #ffcd61;
+  color: white;
+}
+
+@media (max-width: 768px) {
+
+  .create-content{
+    margin-left: 90px;
+    width: 500px;
+    heigth: 450px;
+  }
+}
+
+
