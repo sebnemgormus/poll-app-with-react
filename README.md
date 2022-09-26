@@ -5,17 +5,17 @@ Written using React.js, and Polls API provided from apiary. An application where
 
 ## Main Page
 
-![questionList](https://user-images.githubusercontent.com/63050857/192319481-b2283fe5-725e-4233-a415-fd8abf81242a.png)
+![questionList](https://user-images.githubusercontent.com/63050857/192324376-c51e81a1-056e-4694-a014-b90de313a606.png)
 
 
 ## Question Detail Page
 
-![questionDetailPage](https://user-images.githubusercontent.com/63050857/192319519-a8851da6-9b2f-44e4-a5f2-cce6019ee587.png)
+![questionDetailPage](https://user-images.githubusercontent.com/63050857/192324435-441d2651-e6c9-4296-999f-673a14bab7d8.png)
 
 
 ## Create a New Question Page
 
-![createQuestion](https://user-images.githubusercontent.com/63050857/192319542-bfd5046b-bc5e-4e07-b7ef-241e4f47d0c8.png)
+![createQuestion](https://user-images.githubusercontent.com/63050857/192324508-63d4e94a-344e-46f2-b139-087e21f06cbe.png)
 
 
 ## Deployment
