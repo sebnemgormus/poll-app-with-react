@@ -24,8 +24,8 @@ const Question = () => {
     <div className="question-body">
       <h2> Question List</h2>
       {questions &&
-        questions.map((question, unique_id) => (
-          <div key={unique_id} className="question-container">
+        questions.map((question) => (
+          <div key={question.question} className="question-container">
             <Link className="questions-link" to={`${question.url}`}>
               <p className="questions-name" style={{textAlign:'left'}}>
               ◦ {question.question} 
